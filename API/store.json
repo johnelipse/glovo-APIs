@@ -1,34 +1,42 @@
 [
     {
+    "cat":"Burgers",
     "name":"KFC",
     "rate%":"94%",
     "rate":"500+","image":"https://img.freepik.com/free-photo/top-view-chicken-wings-plate-with-sesame-seeds-cherry-tomatoes_23-2148679083.jpg?t=st=1713282268~exp=1713285868~hmac=df9f02cbdd0d8cc7e74c1b4d1857bb7b2051c4916a29da4f7e3563318d0864cc&w=740"
 },
-{
+{ 
+    "cat":"Burgers",
     "name":"The Food Hub","rate%":"95%","rate":"500+",
     "quantity":"2 for 1","discount":"-13%","image":"https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-french-fries-dark-background_140725-89726.jpg?t=st=1713282448~exp=1713286048~hmac=c17314f090b4494082b5405adce988799f92c4ebb4348135b80e1043ba2c9945&w=740"
 }
 ,
 {
+    "cat":"Chicken",
     "name":"Sta Xpress","rate%":"92%","rate":"500+",
     "discount":"-20%","image":"https://img.freepik.com/premium-photo/bbq-chicken-legs-white-bucket_122647-87.jpg?w=740"
 },
 {
+    "cat":"Burgers",
     "name":"Chicken Tonight","rate%":"91%","rate":"440",
     "discount":"-30%","image":"https://img.freepik.com/free-photo/grilled-chicken-breasts-with-vegetables_23-2148189861.jpg?t=st=1713282786~exp=1713286386~hmac=ecb47207aadfd88076d785531e61adb41dbc76be86c728a20385ac6a2d4042df&w=740"
 },
 {
+    "cat":"Chicken",
     "name":"Ugaroll","rate%":"90%","rate":"500+",
    "discount":"-30%","image":"https://img.freepik.com/free-photo/deep-fried-spring-rolls_1388-95.jpg?t=st=1713282903~exp=1713286503~hmac=e907551ff68b6b8a891633e6a8f8eab121080ce65a6574c3d94fa5ac7fb65b2f&w=740"
 },
 {
+    "cat":"Burgers",
     "name":"Meza Shawarma","rate%":"96%","rate":"500+",
     "quantity":"2 for 1","discount":"-45%","image":"https://img.freepik.com/free-photo/azeri-national-kebab-mix-with-onions-herbs_140725-1045.jpg?t=st=1713283160~exp=1713286760~hmac=6afd53b6cd80e1f0d73052648bbfcdaeaa2ec8f1a8d93806fa36d6655ed27002&w=740"
 },
 {
+    "cat":"Fast Food",
     "name":"Cafe Javas","rate%":"97%","rate":"500+","image":"https://img.freepik.com/free-vector/restaurant-mural-wallpaper_23-2148697385.jpg?t=st=1713283290~exp=1713286890~hmac=bc568e401ab0dc1e14c46abca1420f7c0b95a4ea59acc910852066c7b13fbd6b&w=740"
    },
    {
+    "cat":"Fast Food",
     "name":"Middle East Restuarant(Halal Food)","rate%":"91%","rate":"500+",
     "quantity":"2 for 1","discount":"-50%","image":"https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1713283352~exp=1713286952~hmac=f8c2ff59951c4c707aafc318eeedee260fd54b4899d8f5dfabc591b36f73bcdd&w=740"
 }
