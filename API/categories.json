@@ -1,0 +1,35 @@
+[
+
+{
+    "name" : "Food",
+    "image":"https://images.deliveryhero.io/image/customer-assets-glovo/category_icons/05b34d9eddcd11486820de60c41c4d02f1f2ea96b2ae29202e75c6f9b8e9533e?t=W3siYXV0byI6eyJxIjoiaGlnaCJ9fSx7InJlc2l6ZSI6eyJtb2RlIjoiZml0Iiwid2lkdGgiOjEyMCwiaGVpZ2h0IjoxMjB9fV0="
+  },   
+{
+    "name" : "Sta Xpress",
+    "image":"https://glovoapp.com/ug/en/kampala/sta-express-kpa/"
+  },   
+{
+    "name" : "Courier",
+    "image":"https://images.deliveryhero.io/image/customer-assets-glovo/category_group_icons/db3c57cb2e304b4d2eff4241b26fc976e5c66f41f4f535760a03fbbb41608322?t=W3siYXV0byI6eyJxIjoiaGlnaCJ9fSx7InJlc2l6ZSI6eyJtb2RlIjoiZml0Iiwid2lkdGgiOjEyMCwiaGVpZ2h0IjoxMjB9fV0="
+  },   
+ {
+    "name" : "Supermarket",
+    "image":"https://images.deliveryhero.io/image/customer-assets-glovo/category_icons/6f6c445629da6752bb6e7399c9f19aa2bf33f00ca8c637231c7e67b10a8c4bd5?t=W3siYXV0byI6eyJxIjoiaGlnaCJ9fSx7InJlc2l6ZSI6eyJtb2RlIjoiZml0Iiwid2lkdGgiOjEyMCwiaGVpZ2h0IjoxMjB9fV0="
+  },   
+ {
+    "name" : "Drinks",
+    "image":"https://images.deliveryhero.io/image/customer-assets-glovo/category_icons/c6caca069b1832e2a79f1b24d80d9a2495ae9ea6df3ef84b39d5d61ce9f4ee00?t=W3siYXV0byI6eyJxIjoiaGlnaCJ9fSx7InJlc2l6ZSI6eyJtb2RlIjoiZml0Iiwid2lkdGgiOjEyMCwiaGVpZ2h0IjoxMjB9fV0="
+  },   
+{
+    "name" : "Health & Shops",
+    "image":"https://images.deliveryhero.io/image/customer-assets-glovo/category_group_icons/efc801ed7e33f3df76b2621aec068a2cd4c3db53bec41ce54dca9649f4465b05?t=W3siYXV0byI6eyJxIjoiaGlnaCJ9fSx7InJlc2l6ZSI6eyJtb2RlIjoiZml0Iiwid2lkdGgiOjEyMCwiaGVpZ2h0IjoxMjB9fV0="
+  } ,  
+{
+    "name" : "KFC",
+    "image":"https://images.deliveryhero.io/image/customer-assets-glovo/category_icons/e4f3de7398f5dac4cacc022ccc80ffa7cc564fcdbaba36a3c5533698f80af357?t=W3siYXV0byI6eyJxIjoiaGlnaCJ9fSx7InJlc2l6ZSI6eyJtb2RlIjoiZml0Iiwid2lkdGgiOjEyMCwiaGVpZ2h0IjoxMjB9fV0="
+  },   
+{
+    "name" : "Cheap meals + Free Delivery",
+    "image":"https://images.deliveryhero.io/image/customer-assets-glovo/category_icons/d8f2e6888bad8efda317490719ad4d17ac5a48ebf45a405ecb2e049e36d34e41?t=W3siYXV0byI6eyJxIjoiaGlnaCJ9fSx7InJlc2l6ZSI6eyJtb2RlIjoiZml0Iiwid2lkdGgiOjEyMCwiaGVpZ2h0IjoxMjB9fV0="
+  }   
+]
