@@ -45,5 +45,30 @@
     "cat":"Fast Food",
     "name":"Middle East Restuarant(Halal Food)","ratepers":"91%","rate":"500+",
     "quantity":"2 for 1","discount":"-50%","image":"https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1713283352~exp=1713286952~hmac=f8c2ff59951c4c707aafc318eeedee260fd54b4899d8f5dfabc591b36f73bcdd&w=740","time":"8:30"
+},
+   {
+    "cat":"Burgers",
+    "name":"Caffesserie","ratepers":"96%","rate":"500+","discount":"-20%","image":"https://img.freepik.com/free-photo/delicious-thai-food-with-soya-sauce-teapot-bell-peppers-desk-against-black-background_23-2148093069.jpg?t=st=1713927394~exp=1713930994~hmac=daeeb4a612c3e881ba895a28376a7d3ff160f344f3dc23ec1edd845bb2e978f4&w=740","time":"8:30"
+},
+   {
+    "cat":"Asian",
+    "name":"Nawab Express","ratepers":"96%","rate":"500+","discount":"-40%","image":"https://img.freepik.com/free-photo/local-food-meal-assortment_23-2148833773.jpg?t=st=1713927787~exp=1713931387~hmac=8efc604768b27cb65d6b140f489bddd23eb68866e28580f2645237adaf6fcf9f&w=740","time":"11:00"
+},
+   {
+    "cat":"Deserts",
+    "name":"On the go","ratepers":"96%","rate":"500+","discount":"-17%","image":"https://img.freepik.com/free-photo/hot-dogs-wooden-board-marble-table-with-onions-background_157027-3853.jpg?t=st=1713927954~exp=1713931554~hmac=20b0dde83ce4e56b1867b421157d25c5edc34d929ab8c171771335edcdf6f16f&w=740","time":"8:30"
+},
+   {
+    "cat":"local Food",
+    "name":"Caramel Cafe","ratepers":"99%","rate":"231","image":"https://img.freepik.com/free-photo/assorted-meat-pizza-with-jamon-olives_501050-786.jpg?t=st=1713928204~exp=1713931804~hmac=13d73c3233e1f1662c73ac4cf19338d37e6439977b4d2bb372ec0a06cf1c6d45&w=740","time":"9:30"
+}
+,
+   {
+    "cat":"Burgers",
+    "name":"Krasty krab","ratepers":"91%","rate":"321","discount":"-16%","image":"https://img.freepik.com/free-photo/front-view-burger-stand_141793-15542.jpg?t=st=1713928572~exp=1713932172~hmac=fef1a4efff2f51f7f3a3388c7951ac52061bb09670f167f3e695983e1b8fd736&w=740","time":"11:30"
+},
+   {
+    "cat":"Deserts",
+    "name":"Pizza Hunt","ratepers":"92%","rate":"500+","discount":"-20%","image":"https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?t=st=1713928753~exp=1713932353~hmac=61570db31ac4cbb32df0633c95017545ee993a1cf740e8809b81fcc13f87f437&w=740","time":"10:30"
 }
 ]
