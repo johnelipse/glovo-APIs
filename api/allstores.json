@@ -70,5 +70,157 @@
    {
     "cat":"Deserts",
     "name":"Pizza Hunt","ratepers":"92%","rate":"500+","discount":"-20%","image":"https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?t=st=1713928753~exp=1713932353~hmac=61570db31ac4cbb32df0633c95017545ee993a1cf740e8809b81fcc13f87f437&w=740","time":"10:30"
+},
+   {
+    "cat":"Fast Food",
+    "name":"Katogo Express","ratepers":"83%","rate":"87","discount":"-30%","image":"https://img.freepik.com/premium-photo/sweet-sour-sauced-deep-fried-pork-ribs-with-chopped-pepper-pineapple-plate-wooden-table_337226-215.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Burgers",
+    "name":"Java House","ratepers":"97%","rate":"403","discount":"-20%","image":"https://img.freepik.com/premium-photo/oceanic-delights-coastal-paradise039s-exquisite-seafood-feast_215372-1949.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Chicken",
+    "name":"Crazy Chicken","ratepers":"94%","rate":"500+","discount":"-20%","image":"https://img.freepik.com/premium-photo/barbecue-chicken-wings-close-up-wooden-tray-shot-with-selective-focus_179068-4157.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Burgers",
+    "name":"Tipsy foodd","ratepers":"80%","rate":"110","discount":"-17%","image":"https://img.freepik.com/free-photo/three-mini-burgers-plate-served-with-french-fries-paper-box_141793-2419.jpg?t=st=1713936898~exp=1713940498~hmac=10961d2b63a260df028dcaafbb33256fb54cafb5ae960713da3aa88f19bf04ce&w=740","time":"10:30"
+},
+   {
+    "cat":"Beer",
+    "name":"Mapenzi Grill","ratepers":"90%","rate":"298","discount":"-50%","image":"https://img.freepik.com/premium-photo/roast-chicken-served-with-roasted-potato-fresh-tomatoes-peppers-herbs-white-platter-rustic-wooden-table-flat-lay_268847-1490.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Fast Food",
+    "name":"Chillies restuarant","ratepers":"70%","rate":"13","image":"https://img.freepik.com/free-photo/side-view-stewed-meatballs-with-tomato-sauce-bell-pepper-spring-onion-mint-plate_141793-5117.jpg?t=st=1713937261~exp=1713940861~hmac=a36a77bb6eb29f2250312b0896445105edb178e02e09d120abbce887b6d47d1f&w=740","time":"10:30"
+},
+   {
+    "cat":"Chicken",
+    "name":"Antonio's","ratepers":"94%","rate":"291","image":"https://img.freepik.com/free-photo/beef-kebab-boiled-potatoes-black-plate_114579-69510.jpg?t=st=1713937438~exp=1713941038~hmac=39444430e7a4a34671130ce98b7e1b79587d8c89f4b2e277009ac8a7f4e8c297&w=740","time":"10:30"
+}
+,
+   {
+    "cat":"Fast Food",
+    "name":"Pilua Express","ratepers":"82%","rate":"10","discount":"-20%","image":"https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?t=st=1713937834~exp=1713941434~hmac=28c3018fdada5457643464d27a0c475d523f5f819d235519cf78464f16cf17f0&w=740","time":"10:30"
+}
+,
+   {
+    "cat":"Burgers",
+    "name":"Endiro Coffee","ratepers":"94%","rate":"100","image":"https://img.freepik.com/free-photo/black-tea-glass-cup-with-sweets-table_114579-6619.jpg?t=st=1713937978~exp=1713941578~hmac=48941f51f3b339761848ab4cafd18820d19ba226e76ee38e932a57a3e339e912&w=740","time":"10:30"
+}
+,
+   {
+    "cat":"Chicken",
+    "name":"River By Ark Organics","ratepers":"95%","rate":"219","discount":"-10%","image":"https://img.freepik.com/free-photo/top-view-tasty-meat-cutlets-with-onion-rings-grey-background-meal-cuisine-photo_140725-46955.jpg?t=st=1713938254~exp=1713941854~hmac=d814e81bcc118b2f15042bc8a42f35a121765b89a8e0689d903002d9d767e495&w=740","time":"10:30"
+},
+   {
+    "cat":"Burgers",
+    "name":"Ponnus restuarant","ratepers":"67%","rate":"45","discount":"-20%","image":"https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141351.jpg?t=st=1713938410~exp=1713942010~hmac=5110f443629337364acd250a4c06d83ec0ac2f9dd387fff6e2f50acf89fc622d&w=740","time":"10:30"
+}
+,
+   {
+    "cat":"Burgers",
+    "name":"Lexor Foods","ratepers":"95%","rate":"170","image":"https://img.freepik.com/free-photo/front-view-mushroom-pizza-sliced-cooked-dough-with-cheese-olives-dark-surface-food-italian-meal-pizza-dough_140725-101506.jpg?t=st=1713938644~exp=1713942244~hmac=2e67965f21d7858381fb9c9f83acd4838b45527fa40b791fa7ac0bfe9ff025da&w=740","time":"10:30"
+}
+,
+   {
+    "cat":"Juices",
+    "name":"The Drop","ratepers":"95%","rate":"136","discount":"-12%","image":"https://img.freepik.com/free-photo/top-view-delicious-cheese-pizza-with-olives-pepper-tomatoes-dark-surface_179666-34918.jpg?t=st=1713938806~exp=1713942406~hmac=f02dd256d587de9009a2ff42dd9b0f22416b45fa56ba1266cb874a0fc1538e7e&w=740","time":"10:30"
+},
+   {
+    "cat":"Chicken",
+    "name":"Katic Food Najjera","ratepers":"90%","rate":"129","discount":"-10%","image":"https://img.freepik.com/free-photo/bottom-view-roasted-chicken-fresh-tomatoes-lemon-slices-plate-black-table_140725-148206.jpg?t=st=1713938952~exp=1713942552~hmac=20bf4a4b0a6657e64aa2462e39d2cec7c7f4cb960fe83d1c4eba1036eac2d7c7&w=740","time":"10:30"
+},
+   {
+    "cat":"local Food",
+    "name":"Tiamo Restuarant","ratepers":"90%","rate":"129","discount":"-10%","image":"https://img.freepik.com/premium-photo/plate-filled-with-tender-tandoori-chicken-array-vibrant-vegetables-colors-popping_777526-17910.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Burgers",
+    "name":"Sta Cafe & Lounge","ratepers":"90%","rate":"129","discount":"-10%","image":"https://img.freepik.com/free-photo/front-view-delicious-ham-sandwiches-wooden-board-dark-surface_179666-34425.jpg?t=st=1713940361~exp=1713943961~hmac=ecbbaa698dadd3c8665f6a3014c4955707dff939bcfc022318161d408a87190c&w=740","time":"10:30"
+},
+   {
+    "cat":"Fruits & vegs",
+    "name":"Fruits Addict","ratepers":"90%","rate":"129","discount":"-20%","image":"https://img.freepik.com/premium-photo/close-up-drink-table_1048944-25672532.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Fast Food",
+    "name":"Momo Shawarma","ratepers":"90%","rate":"129","image":"https://img.freepik.com/free-photo/top-view-fried-chicken-with-nuggets-sauce_23-2148646575.jpg?t=st=1713940998~exp=1713944598~hmac=9ec973d32b5d311aa2ee8bb0559b6f19ac9adb0327de5e6891f129601c983d27&w=740","time":"10:30"
+}
+,
+   {
+    "cat":"Chicken",
+    "name":"Retro Restuarant","ratepers":"90%","rate":"129","discount":"-10%","image":"https://img.freepik.com/free-photo/grilled-chicken-breasts-with-vegetables_23-2148189861.jpg?t=st=1713941137~exp=1713944737~hmac=5242edfaf0b187fe2d36917d4450a2b1a86347a073292c7ce1947aa3d044cee2&w=740","time":"10:30"
+},
+   {
+    "cat":"Fast Food",
+    "name":"Cooktoria Restuarant","ratepers":"90%","rate":"129","image":"https://img.freepik.com/free-photo/grilled-chicken-breasts-with-vegetables_23-2148189861.jpg?t=st=1713941137~exp=1713944737~hmac=5242edfaf0b187fe2d36917d4450a2b1a86347a073292c7ce1947aa3d044cee2&w=740","time":"10:30"
+}
+,
+   {
+    "cat":"Vegeterian",
+    "name":"Heakthy you","ratepers":"90%","rate":"129","discount":"-15%","image":"https://img.freepik.com/premium-photo/health-fitness-logo-vector_816702-3142.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Chicken",
+    "name":"Pot2Plate foods","ratepers":"90%","rate":"129","image":"https://img.freepik.com/premium-photo/wing-feast-picnic-scene-outdoor-dining_882186-18090.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Chicken",
+    "name":"Romeo's Restuarant","ratepers":"90%","rate":"129","image":"https://img.freepik.com/free-photo/herbs-fried-pork-with-chili-tomato-cucumber-carrot-fresh-pepper_1150-25898.jpg?t=st=1713943131~exp=1713946731~hmac=e0f02b38df0207b8dd1590b5215ee553cb65823844dd8c7533520b87aefcba82&w=740","time":"10:30"
+},
+   {
+    "cat":"Pasta",
+    "name":"Karveli Restuarant","ratepers":"90%","rate":"129","image":"https://img.freepik.com/free-photo/sweet-fried-chicken-feet-white-plate-with-coriander-chili-cucumber-tomato_1150-25954.jpg?t=st=1713943430~exp=1713947030~hmac=4d72bb9a484daa34b6b71ce3fc1d709eece3d6c76ca59e5d3b8265ef54eee030&w=740","time":"10:30"
+},
+   {
+    "cat":"Fast Food",
+    "name":"Pent house lounge","ratepers":"90%","rate":"129","image":"https://img.freepik.com/premium-photo/side-view-beer-snacks-set-wooden-board_219193-2180.jpg?w=7400","time":"10:30"
+},
+   {
+    "cat":"Fast Food",
+    "name":"Pent house lounge","ratepers":"90%","rate":"129","image":"https://img.freepik.com/premium-photo/food-plate-food-table-delicious-foods-table-tasty-foods-table_179935-27612.jpg?w=740","time":"10:30"
+}
+,
+   {
+    "cat":"local Food",
+    "name":"Just Katogo","ratepers":"90%","rate":"129","discount":"-10%","image":"https://img.freepik.com/free-photo/view-delicious-dish-food_23-2150777705.jpg?t=st=1713944123~exp=1713947723~hmac=a3dc81f467581560f790f001efac77e51f452c76589d47d18dc0577b157a855e&w=740","time":"10:30"
+},
+   {
+    "cat":"Burgers",
+    "name":"Cafe Pap","ratepers":"90%","rate":"129","image":"https://img.freepik.com/free-photo/medium-shot-barista-holding-coffee-cup_23-2149045721.jpg?t=st=1713944400~exp=1713948000~hmac=d68f4448ae902d3a2170702e41580fd1fd4db5de5f2a2826b9829639ac635e71&w=740","time":"10:30"
+},
+   {
+    "cat":"Chicken",
+    "name":"Homestyle kimere","ratepers":"90%","rate":"129","image":"https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141351.jpg?t=st=1713938410~exp=1713942010~hmac=5110f443629337364acd250a4c06d83ec0ac2f9dd387fff6e2f50acf89fc622d&w=740","time":"10:30"
+},
+   {
+    "cat":"Burgers",
+    "name":"Great Burgers and cafe","ratepers":"90%","rate":"129","image":"https://img.freepik.com/premium-photo/tasty-burger-with-cheese-salad-sliced-tomatoes-plate-beside-drinks-glass-bottle-black-backdrop-generative-ai_116317-27731.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Burgers",
+    "name":"College inn Hotel","ratepers":"90%","rate":"129","image":"https://img.freepik.com/premium-photo/tasty-burger-with-cheese-salad-sliced-tomatoes-plate-beside-drinks-glass-bottle-black-backdrop-generative-ai_116317-27731.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Burgers",
+    "name":"College inn Hotel","ratepers":"90%","rate":"129","image":"https://img.freepik.com/free-photo/fragrant-potato-pancakes-herring-with-beetroot_2829-13674.jpg?t=st=1713945512~exp=1713949112~hmac=63896bab8da06a29da841609e97051286993231ca85aa1ae33c34656ebcfeb34&w=740","time":"10:30"
+},
+   {
+    "cat":"Burgers",
+    "name":"Kembabazi cetering","ratepers":"90%","rate":"129","image":"https://img.freepik.com/premium-photo/buffet-food-buffet-table_664601-3578.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Healthy",
+    "name":"Milk and Maar","ratepers":"90%","rate":"129","image":"https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?t=st=1713945976~exp=1713949576~hmac=8ed9ac17e22ef38e99a3818a75e0649ab8674f87b531837dcbc299e3d717f12b&w=740","time":"10:30"
+},
+   {
+    "cat":"American",
+    "name":"Banana Bar and Bistro","ratepers":"90%","rate":"129","image":"https://img.freepik.com/premium-photo/delicious-roast-beef-restaurant-steak-house_919857-2249.jpg?w=740","time":"10:30"
+},
+   {
+    "cat":"Deserts",
+    "name":"HK restuarant","ratepers":"90%","rate":"129","image":"https://img.freepik.com/premium-photo/ramadan-iftar-desert_558711-1410.jpg?w=740","time":"10:30"
 }
 ]
